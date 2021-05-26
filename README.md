@@ -3,14 +3,14 @@
 
 #stakeholders
 
--kiri russel
--brenda sandrey
--Nathaniel scott
+- kiri russel
+- brenda sandrey
+- Nathaniel scott
 
 ## project manager
--Ms Chowfin
+- Ms Chowfin
 
 ### funding site
--unicef give a little
+- unicef give a little
 
 my project is an Aroha box it will be for people in poverty and its contents will be things to help with hygiene.
